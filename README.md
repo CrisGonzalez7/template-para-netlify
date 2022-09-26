@@ -146,6 +146,7 @@ git branch [NOMBRE DE LA RAMA]
 ```
 
 > Generalmente en mis proyectos personales creo una rama llamada `rama` y así no me complico la vida ;)
+
 - Para cambiar a la rama creada ejecuta:
 
 ```bash
