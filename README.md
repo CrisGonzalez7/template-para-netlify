@@ -179,9 +179,11 @@ git push -u origin [NOMBRE DE LA RAMA]
 Para mezclar la rama creada con la rama main (que es la principal), debes ir al link de tu repositorio en [GitHub](https://github.com/)
 
 > Si lo olvidaste el link de tu repositorio puedes acceder a él con el comando `git remote -v`
+
 - Una vez en GitHub, es probable que te aparezca un mensaje como este ` [NOMBRE DE LA RAMA] had recent pushes [TIEMPO] ago`, y al lado un botón que diga `Compare & pull request`
 
 > Si no te sale ese mensaje puedes hacer clic en `main` luego ir a la rama en cuestión y en `contribute` hacer clic en `Open Pull Request`
+
 En Write puedes escribir una descripción de tu proyecto (si quieres) y presionar `Create pull request`
 
 Luego, si te dice `This branch has no conflicts with the base branch` significa que está todo correcto y al hacer clic en `Merge pull request` y luego en `Confirm merge` los cambios serán enviados a la rama `main`
