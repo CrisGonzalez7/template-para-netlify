@@ -184,7 +184,7 @@ Para mezclar la rama creada con la rama main (que es la principal), debes ir al 
 
 > Si no te sale ese mensaje puedes hacer clic en `main` luego ir a la rama en cuestión y en `contribute` hacer clic en `Open Pull Request`
 
-En Write puedes escribir una descripción de tu proyecto (si quieres) y presionar `Create pull request`
+- En Write puedes escribir una descripción de tu proyecto (si quieres) y presionar `Create pull request`
 
 Luego, si te dice `This branch has no conflicts with the base branch` significa que está todo correcto y al hacer clic en `Merge pull request` y luego en `Confirm merge` los cambios serán enviados a la rama `main`
 
