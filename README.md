@@ -39,7 +39,7 @@ Para clonar tu repositorio y realizar modificaciones desde tu PC, sigue los sigu
 
 En tu computador: 
 - Crea una carpeta donde almacenarás el proyecto
-- Abre la carpeta con [Visual Studio Code](https://code.visualstudio.com)
+- Abre la carpeta en [Visual Studio Code](https://code.visualstudio.com)
 - Ve al menú superior de Visual Studio Code y abre un terminal
 
 - Ejecuta el siguiente comando 
