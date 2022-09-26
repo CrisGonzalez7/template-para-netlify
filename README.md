@@ -32,7 +32,8 @@ Para poder empezar a trabajar en tu proyecto de Angular, lo primero que debes ha
 
 Para clonar tu repositorio y realizar modificaciones desde tu PC, sigue los siguientes pasos:
 - Ve al sitio de administrador en Netlify del sitio web que haz creado.
-- En la sección `Deploys for [NOMBRE]` sale el link de tu sitio y debajo dice `Deploys from [REPOSITORIO]`. 
+- Ve a la sección `Deploys` en el menú superios.
+- En `Deploys for [NOMBRE]` sale el link de tu sitio y debajo dice `Deploys from [REPOSITORIO]`. 
 - Haz clic en el link del repositorio.
 - Una vez en la página de tu repositorio, haz clic en `Code` y copia el link que aparece en `HTTPS`
 
